@@ -1,5 +1,39 @@
-# flappy_bird_clone
+# 🐦 Flappy Bird Clone
 
-Clone do jogo flappy bird desenvolvido em JS, CSS e HTML5 para um trabalho da disciplina de TECWEB do curso de Eng de Computação.
+Clone do clássico jogo Flappy Bird, desenvolvido com HTML5, CSS e JavaScript como parte de um projeto acadêmico da disciplina de TECWEB no curso de Engenharia de Computação.
 
-Nessa versão, você pode ajustar vários parâmetros como velocidade do personagem e cenário, turno, dificuldade e até o personagem.
+## 🎮 Demonstração
+
+Jogue agora: [https://gilsonfiho.github.io/flappy_bird_clone/](https://gilsonfiho.github.io/flappy_bird_clone/)
+
+## ✨ Funcionalidades
+
+- Mecânica fiel ao jogo original Flappy Bird
+- Personalização de parâmetros:
+  - Velocidade do personagem e do cenário
+  - Dificuldade do jogo
+  - Escolha do personagem
+- Design responsivo
+- Código modularizado e de fácil manutenção
+
+## 🚀 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+## 🛠️ Como Executar Localmente
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/gilsonfiho/flappy_bird_clone.git
+
+## Estrutura do Projeto
+
+flappy_bird_clone/
+├── css/           # Estilos CSS
+├── fontes/        # Fontes utilizadas no jogo
+├── img/           # Imagens e sprites
+├── js/            # Scripts JavaScript
+├── index.html     # Página principal
+└── README.md      # Documentação do projeto
